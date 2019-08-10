@@ -2,7 +2,7 @@
 
 Write code in Python that parses fund holdings pulled from EDGAR, given a ticker or CIK, and writes a .tsv file from them.
 
-## Applicant
+## Author
 
 Alec Hsu
 
